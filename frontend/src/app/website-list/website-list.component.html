@@ -1,0 +1,5 @@
+<ul *ngFor="let website of websites" class="list-group">
+    <li class="list-group-item">
+        <a class="nav-link" [routerLink]="['/view', website.name]" routerLinkActive="active">{{ website.name }}</a>
+    </li>
+</ul>

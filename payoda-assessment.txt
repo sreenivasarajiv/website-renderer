@@ -1,0 +1,3 @@
+Hi Sreenivas,
+Create a Nodejs server with a REST API which provides any public website URL(e.g www.tutorialrepublic.com), Create an Angular application which consumes the API and shows the website contents as an embedded website.
+Create two other pages of your own interest and use proper selectors,routers,component interactions and coding standards.
